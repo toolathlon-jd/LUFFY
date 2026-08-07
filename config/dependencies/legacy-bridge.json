@@ -1,0 +1,6 @@
+{
+  "component": "legacy-bridge",
+  "supported_versions": ">=1.9,<2.1",
+  "exclusions": [],
+  "tier": "maintenance"
+}
