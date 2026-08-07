@@ -1,0 +1,8 @@
+{
+  "component": "event-router",
+  "supported_versions": "^5.4",
+  "exclusions": [
+    "5.4.2|linux"
+  ],
+  "tier": "critical"
+}
