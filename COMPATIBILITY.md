@@ -7,8 +7,9 @@ Release managers should review exceptional exclusions with the owning team.
 | Component | Supported versions | Exclusions | Support tier |
 |---|---|---|---|
 | api-gateway | >=2.8,<3.2 | 3.0.0-rc1 | standard |
-| event-router | ^5.3 | 5.4.2|linux | critical |
-| legacy-bridge | >=1.9,<2.0 | none | maintenance |
+| event-router | ^5.4 | 5.4.2\|linux | critical |
+| legacy-bridge | >=1.9,<2.1 | — | maintenance |
+| worker-runtime | ~4.7 | 4.7.3, 4.7.4 | standard |
 <!-- compatibility:end -->
 
 ## Interpretation notes
