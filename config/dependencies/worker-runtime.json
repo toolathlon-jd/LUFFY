@@ -1,0 +1,9 @@
+{
+  "component": "worker-runtime",
+  "supported_versions": "~4.7",
+  "exclusions": [
+    "4.7.3",
+    "4.7.4"
+  ],
+  "tier": "standard"
+}
