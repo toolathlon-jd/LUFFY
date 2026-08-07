@@ -1,0 +1,8 @@
+{
+  "component": "api-gateway",
+  "supported_versions": ">=2.8,<3.2",
+  "exclusions": [
+    "3.0.0-rc1"
+  ],
+  "tier": "standard"
+}
